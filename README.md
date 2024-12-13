@@ -1,4 +1,3 @@
-# Excel
 
 # Time Frame Analysis
  
@@ -13,7 +12,7 @@ Product Analysis: Details the top-selling and most profitable products, as well 
 return and refund rates. This is critical for inventory management and identifying which 
 products are most valuable to the business. 
 
-* Profit View Analysis
+# Profit View Analysis
 
   . Quarterly Revenue Analysis: Shows revenue generated per quarter against the average, 
 providing a quick view of performance relative to the norm. 
@@ -22,7 +21,7 @@ weekdays versus weekends, which can help in making staffing and operational deci
 . Monthly Revenue vs Target: Tracks monthly performance against goals, which is 
 fundamental for short-term financial planning and adjustments.
 
-*Store Analysis
+#Store Analysis
 
 . Store Budget vs Revenue: Presents a comparison of revenue vs. target for each store, 
 which helps in understanding which stores are under or over-performing against their targets. 
