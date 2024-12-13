@@ -1,6 +1,6 @@
 # Excel
 
-* Time Frame Analysis
+# Time Frame Analysis
  
 . Customer Analysis:  provide insights into the profit generated from male and female 
 customers, and breaks down the average spending by customer age groups, showing which age 
