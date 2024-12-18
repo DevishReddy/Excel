@@ -28,6 +28,8 @@ weekdays versus weekends, which can help in making staffing and operational deci
 
 . Monthly Revenue vs Target: Tracks monthly performance against goals, which is 
 fundamental for short-term financial planning and adjustments.
+![image](https://github.com/user-attachments/assets/ade14c80-68c0-4aee-bdf1-a18172fd7ba2)
+
 
 ### Store Analysis
 
@@ -37,3 +39,4 @@ which helps in understanding which stores are under or over-performing against t
 . Month-by-Month Analysis: Offers a detailed month-by-month breakdown of total 
 revenue and targets, highlighting variances. This can be important for financial planning and 
 performance management. 
+
