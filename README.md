@@ -15,6 +15,8 @@ useful for staffing and marketing efforts.
 Product Analysis: Details the top-selling and most profitable products, as well as product 
 return and refund rates. This is critical for inventory management and identifying which 
 products are most valuable to the business. 
+![image](https://github.com/user-attachments/assets/3b262850-f5f9-4d66-814e-6fa293aafae6)
+
 
 ### Profit View Analysis
 
