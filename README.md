@@ -39,4 +39,6 @@ which helps in understanding which stores are under or over-performing against t
 . Month-by-Month Analysis: Offers a detailed month-by-month breakdown of total 
 revenue and targets, highlighting variances. This can be important for financial planning and 
 performance management. 
+![image](https://github.com/user-attachments/assets/d2a43f16-96d1-429c-80be-05c2c306a723)
+
 
